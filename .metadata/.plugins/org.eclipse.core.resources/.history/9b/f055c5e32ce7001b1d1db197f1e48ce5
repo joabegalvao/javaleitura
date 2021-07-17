@@ -1,0 +1,14 @@
+package java_leitura;
+
+public class Application {
+
+	public static void main(String[] args) {
+		
+		Pessoa[] p = new Pessoa[2];
+		Livro[] l = new Livro[2];
+		
+		p[0] = new Pessoa("Joabe", 25, "Masculino");
+
+	}
+
+}

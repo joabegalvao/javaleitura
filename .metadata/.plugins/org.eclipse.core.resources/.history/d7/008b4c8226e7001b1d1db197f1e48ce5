@@ -1,0 +1,13 @@
+package java_leitura;
+
+public class Pessoa {
+	public String nome;
+	public int idade;
+	public String sexo;
+	
+	public void fazerAniver() {
+		
+	}
+	
+	
+}
